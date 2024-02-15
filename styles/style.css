@@ -1,0 +1,24 @@
+body{
+   background-image: linear-gradient(aquamarine, lightpink);
+   background-repeat: no-repeat;
+   background-size: cover;
+   /* background-color: aquamarine; */
+}
+.wide{
+    width: 100%;
+    position: relative;
+}
+.setMon{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    right: 5%;
+    height: 30%;
+}
+.center{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.tall{
+    height: 100%;
+}
