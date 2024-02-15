@@ -48,6 +48,7 @@ const bigMoney = () =>{
     showFund.append(col);
     showFund.append(colJr);
     showFund.append(hr);
+
 }
 bigMoney();
 
@@ -84,3 +85,6 @@ const subTransaction = () =>{
     showFund.append(hr);
 
 }
+// add func to manipulate total
+// OR manipulate total inside add + subtract funcs
+//manipulate localstorage variable
